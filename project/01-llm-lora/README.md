@@ -1,7 +1,7 @@
 # LLM LoRA fine-tuning
 This project showcases how to fine-tune an LLM using **LoRA (Low-Rank Adaptation)** on PACE. Follow the steps below to setup your virtual environment, install dependencies, and run the fine-tuning notebook or scripts.
 
-## 1. Prerequesites
+## 1. Prerequisites
 Before starting, make sure you've completed the [**LLM Inference tutorial**](https://github.com/dsgt-arc/fall-2025-interest-group-projects/tree/lora/project/00-llm-inference). That setup ensures you have the required caches and environment variables configured.
 
 If not already configured, add the following lines to the end of your `~/.bashrc` (or similar startup file):
